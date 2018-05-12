@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41606
     wikipedia: http://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42465#Vid-ki-hirek--s-m-s-elbesz-l-sek
 gutenberg_issued: '2013-04-03'
 gutenberg_type: Text
 identifiers:
