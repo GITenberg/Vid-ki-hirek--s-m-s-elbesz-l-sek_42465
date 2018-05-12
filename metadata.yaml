@@ -1,0 +1,39 @@
+_repo: Vid-ki-hirek--s-m-s-elbesz-l-sek_42465
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Haranghy, Jeno
+    birthdate: 1894
+    deathdate: 1951
+    gutenberg_agent_id: '46051'
+    url: http://www.gutenberg.org/2009/agents/46051
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia: http://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2013-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42465'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: Vidéki hirek -- A kliens -- Lopják a szőlőt -- A nihilista -- Interieur
+  -- Fájvirág -- Muki -- Geöjthe bátyám -- Papnék a piacon -- A terebesi akta -- Kölcsönkenyér
+  visszajár -- A kappan.
+title: Vidéki hirek, és más elbeszélések
+url: http://www.gutenberg.org/ebooks/42465
